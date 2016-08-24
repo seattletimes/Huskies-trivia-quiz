@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "UWtrivia"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/quizzes/Huskies-trivia-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2016/quizzes/Huskies-trivia-quiz/",
+  "slug": "",
+  "tags": ["quiz"],
+  "image": "assets/social.jpg",
+  "sheets": ["1jWjo8JRLdR_ueq82QnyMhOtDIb4l4EbIQ_0yVUMXk24"],
+  "production": false,
+  "embedded": true
+}

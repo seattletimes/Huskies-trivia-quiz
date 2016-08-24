@@ -1,0 +1,30 @@
+[
+  {
+    "order": 1,
+    "category": "Personality Quiz",
+    "title": "Which Seahawk are you?",
+    "link": "http://projects.seattletimes.com/2015/which-seahawk-are-you/",
+    "image": "pquiztzr.jpg"
+  },
+  {
+    "order": 2,
+    "category": "Top-40",
+    "title": "Who are the best Seahawks in history?",
+    "link": "http://www.seattletimes.com/sports/seahawks/list-of-greatest-seattle-seahawks-topped-by-3-hall-of-famers-5-current-seahawks/",
+    "image": "TZRlargent27.jpg"
+  },
+  {
+    "order": 3,
+    "category": "Fan Map",
+    "title": "Tell us your Seahawks story",
+    "link": "http://projects.seattletimes.com/2015/hawks-fan-map/",
+    "image": "fanmaptzr.jpg"
+  },
+  {
+    "order": 4,
+    "category": "Top Quotes",
+    "title": "The world according to Michael Bennett",
+    "link": "http://projects.seattletimes.com/2015/sports/Bennettisms/",
+    "image": "bennetttzr.jpg"
+  }
+]
