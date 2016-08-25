@@ -18,8 +18,9 @@
   },
   {
     "id": 4,
-    "question": "How many times have the Huskies been to the Rose Bowl? ",
-    "description": "The Huskies have played in the \"Grandaddy of them all\" 14 times. They've won 7 Rose Bowls, lost 6 and tied another. The Huskeis trail Stanford (15), Michigan (20) and USC (33), respectively, in Rose Bowl appearances."
+    "question": "UW has appeared in the Rose Bowl 14 times. Which of these schools has appeared in fewer Rose Bowls than the Huskies?",
+    "description": "The Ducks have only been to the Rose Bowl seven times, putting up a 3-4 record. UW, meanwhile, is 7-6-1 in their 14 appearances in the 'Granddaddy of Them All.'",
+    "image": "rosebowl24.jpg"
   },
   {
     "id": 5,
@@ -60,7 +61,8 @@
   {
     "id": 11,
     "question": "UW comes into the season ranked 14th in the AP poll. When was the last time UW was ranked that high coming into a season?",
-    "description": "UW went into the 2002 season ranked number nine in the preseason AP poll. They slumped to a 7-6 record that season, and their highest preseason ranking since then was in the 2003 season, when they were ranked 17th to start the year."
+    "description": "UW went into the 2002 season ranked number nine in the preseason AP poll. They slumped to a 7-6 record that season, and their highest preseason ranking since then was in the 2003 season, when they were ranked 17th to start the year.",
+    "image": "uwcoachpic13.jpg"
   },
   {
     "id": 12,
@@ -73,5 +75,11 @@
     "question": "True or False? Husky Stadium is the largest stadium in the Pacific Northwest.",
     "description": "Husky Stadium has a capacity of 72,500, just ahead of CenturyLink Field, which seast 67,000. The next closest college stadium is Oregon's Autzen Stadium, which seats 54,000.",
     "image": "http://static.seattletimes.com/wp-content/uploads/2016/08/BESThusky_stadium.jpg"
+  },
+  {
+    "id": 14,
+    "question": "The Husky was officially introduced as UW's mascot in 1922. What was the Huskie's mascot before that?",
+    "description": "The Huskies settled on Sundodger in 1920, prior to which they had used Indians and Vikings as unofficial mascots. It only lasted for two years, though, as many argued that Sundodger had no meaning, so a committee settled on the Husky as the official mascot in early 1922, and it has stayed that way ever since.",
+    "image": "huskymascot.jpg"
   }
 ]

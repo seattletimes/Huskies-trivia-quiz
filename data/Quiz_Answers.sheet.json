@@ -52,20 +52,20 @@
   },
   {
     "id": 4,
-    "answer": 1889,
-    "correct": "The Huskies played their first ever game in 1889, a 20-0 loss at the hands of Eastern College Alumnia. They played a single game in 1890, and then didn't have a team in 1891 before playing two games in 1892, including a 14-0 win over Seattle A.C. for their first-ever victory."
+    "answer": "Oregon",
+    "correct": "The Ducks have only been to the Rose Bowl seven times, putting up a 3-4 record. UW, meanwhile, is 7-6-1 in their 14 appearances in the 'Granddaddy of Them All.'"
   },
   {
     "id": 4,
-    "answer": 1892
+    "answer": "USC"
   },
   {
     "id": 4,
-    "answer": 1898
+    "answer": "Michigan"
   },
   {
     "id": 4,
-    "answer": 1902
+    "answer": "Stanford"
   },
   {
     "id": 5,
@@ -223,5 +223,19 @@
   {
     "id": 13,
     "answer": false
+  },
+  {
+    "id": 14
+  },
+  {
+    "id": 14,
+    "answer": "Sundodger",
+    "correct": "The Huskies settled on Sundodger in 1920, prior to which they had used Indians and Vikings as unofficial mascots. It only lasted for two years, though, as many argued that Sundodger had no meaning, so a committee settled on the Husky as the official mascot in early 1922, and it has stayed that way ever since."
+  },
+  {
+    "id": 14
+  },
+  {
+    "id": 14
   }
 ]
