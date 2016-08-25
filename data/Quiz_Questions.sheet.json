@@ -3,7 +3,7 @@
     "id": 1,
     "question": "The Huskies have won 11 or more games just three times. Who was the first coach to lead UW to an 11-win season?",
     "description": "Bagshaw and Owens each led the Huskies to a pair of ten-win seasons, but neither of them was able to reach 11. In 1984, the Don James-led Huskies finally broke through, beating Oklahoma in the Orange Bowl to finish the season 11-1.",
-    "image": "BESTdawgfather.JPG"
+    "image": "BESTsteve_emtman.JPG"
   },
   {
     "id": 2,
@@ -18,8 +18,8 @@
   },
   {
     "id": 4,
-    "question": "What was UW football's inaugural season?",
-    "description": "The Huskies played their first ever game in 1889, a 20-0 loss at the hands of Eastern College Alumnia. They played a single game in 1890, and then didn't have a team in 1891 before playing two games in 1892, including a 14-0 win over Seattle A.C. for their first-ever victory."
+    "question": "How many times have the Huskies been to the Rose Bowl? ",
+    "description": "The Huskies have played in the \"Grandaddy of them all\" 14 times. They've won 7 Rose Bowls, lost 6 and tied another. The Huskeis trail Stanford (15), Michigan (20) and USC (33), respectively, in Rose Bowl appearances."
   },
   {
     "id": 5,
@@ -59,9 +59,8 @@
   },
   {
     "id": 11,
-    "question": "Who is the only UW football player to twice be recognized as a consensus All-American?\r",
-    "description": "Redman was named a consensus All-American in both 1963 and 1964. Eighteen other Huskies have been named consensus All-Americans, including Milloy, Emtman and Kennedy, but no one else has been one twice.",
-    "image": "http://static.seattletimes.com/wp-content/uploads/2016/08/BESTrick_redman.jpg"
+    "question": "UW comes into the season ranked 14th in the AP poll. When was the last time UW was ranked that high coming into a season?",
+    "description": "UW went into the 2002 season ranked number nine in the preseason AP poll. They slumped to a 7-6 record that season, and their highest preseason ranking since then was in the 2003 season, when they were ranked 17th to start the year."
   },
   {
     "id": 12,
