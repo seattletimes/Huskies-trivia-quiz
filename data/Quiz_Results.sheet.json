@@ -1,31 +1,31 @@
 [
   {
     "min": 0,
-    "max": 2,
+    "max": 3,
     "title": "Newbie",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "min": 3,
-    "max": 5,
+    "min": 4,
+    "max": 7,
     "title": "Husky fan in training",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "min": 6,
-    "max": 8,
+    "min": 8,
+    "max": 11,
     "title": "Seasoned fan",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "min": 10,
-    "max": 12,
+    "min": 12,
+    "max": 14,
     "title": "Dawgfather",
     "image": "test.jpg",
     "photographer": "Photographer Name",

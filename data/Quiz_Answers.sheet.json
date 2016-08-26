@@ -23,7 +23,7 @@
   {
     "id": 2,
     "answer": "Poi",
-    "correct": "UW dominated the 1938 Poi Bowl, beating Hawaii 53-13. The Poi Bowl changed its name to the Pineapple Bowl a year later, and then went defunct in the early 1950s. Before playing in the Poi Bowl, UW had been to three Rose Bowls, tieing with Navy and losing to Alabama and Pitt."
+    "correct": "UW dominated the 1938 Poi Bowl, beating Hawaii 53-13. The Poi Bowl changed its name to the Pineapple Bowl a year later, and then went defunct in the early 1950s. Before playing in the Poi Bowl, UW had been to three Rose Bowls, tying with Navy and losing to Alabama and Pitt."
   },
   {
     "id": 2,
@@ -95,7 +95,7 @@
   {
     "id": 6,
     "answer": "Miami",
-    "correct": "The Huskies, led by Damon Huard and Napoleon Kaufman, went into the Orange Bowl and roleld over Miami 38-20, ending a home winning streak that had begun nearly nine years earlier. Trailing 14-3 at the half, UW scored 25 third-quarter points and never looked back."
+    "correct": "The Huskies, led by Damon Huard and Napoleon Kaufman, went into the Orange Bowl and rolled over Miami 38-20, ending a home winning streak that had begun nearly nine years earlier. Trailing 14-3 at the half, UW scored 25 third-quarter points and never looked back."
   },
   {
     "id": 6,
@@ -225,7 +225,8 @@
     "answer": false
   },
   {
-    "id": 14
+    "id": 14,
+    "answer": "Admiral"
   },
   {
     "id": 14,
@@ -233,9 +234,11 @@
     "correct": "The Huskies settled on Sundodger in 1920, prior to which they had used Indians and Vikings as unofficial mascots. It only lasted for two years, though, as many argued that Sundodger had no meaning, so a committee settled on the Husky as the official mascot in early 1922, and it has stayed that way ever since."
   },
   {
-    "id": 14
+    "id": 14,
+    "answer": "Bumbershoot"
   },
   {
-    "id": 14
+    "id": 14,
+    "answer": "Rainmaker"
   }
 ]
