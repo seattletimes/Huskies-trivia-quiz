@@ -49,8 +49,8 @@
   {
     "id": 9,
     "question": "Why was legendary coach Don James known as 'The Dawgfather'?",
-    "description": "At a hotel before the 1984 Orange Bowl, James' grandon overheard John Costacos say the word godfather and began mispronouncing it. It wasn't until a few years later, when Costacos had gotten into the poster business, for which he is now well-known, that he thought to use the nickname 'The Dawgfather' in reference to Don James.",
-    "image": "BESTdawgather.JPG"
+    "description": "At a hotel before the 1984 Orange Bowl, James' grandson overheard John Costacos say the word godfather and began mispronouncing it. It wasn't until a few years later, when Costacos had gotten into the poster business, for which he is now well-known, that he thought to use the nickname 'The Dawgfather' in reference to Don James.",
+    "image": "BESTdawgfather.JPG"
   },
   {
     "id": 10,
@@ -73,7 +73,7 @@
   {
     "id": 13,
     "question": "True or False? Husky Stadium is the largest stadium in the Pacific Northwest.",
-    "description": "Husky Stadium has a capacity of 72,500, just ahead of CenturyLink Field, which seast 67,000. The next closest college stadium is Oregon's Autzen Stadium, which seats 54,000.",
+    "description": "Husky Stadium has a capacity of 72,500, just ahead of CenturyLink Field, which seats 67,000. The next closest college stadium is Oregon's Autzen Stadium, which seats 54,000.",
     "image": "BESThusky_stadium.jpg"
   },
   {
@@ -81,5 +81,11 @@
     "question": "The Husky was officially introduced as UW's mascot in 1922. What was the school's mascot before that?",
     "description": "The Huskies settled on Sundodger in 1920, prior to which they had used Indians and Vikings as unofficial mascots. It only lasted for two years, though, as many argued that Sundodger had no meaning, so a committee settled on the Husky as the official mascot in early 1922, and it has stayed that way ever since.",
     "image": "huskymascot.jpg"
+  },
+  {
+    "id": 15,
+    "question": "Who caught the memorable pass from Warren Moon that gave UW the win over WSU in the 1975 Apple Cup?",
+    "description": "In Don James' first season as head coach, the Huskies found themselves trailing late in the game to the Cougars. Moon threw a deep pass, and two WSU defensive backs went for the interception and tipped it directly inot Gaines' hands. He ran the remaining thirty yards to the end zone, giving UW the win.",
+    "image": "img0383AA.jpg"
   }
 ]
