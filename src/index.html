@@ -14,12 +14,6 @@
     <div class="outer">
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
-      <nav class="top-bar">
-        <a class="logo" href="http://seattletimes.com">
-          <img src="./assets/seattletimes.svg">
-        </a>
-      </nav>
-
       <img class="splash" src="http://static.seattletimes.com/wp-content/uploads/2016/08/HuskyTriviaTOPPER-002.jpg">
 
       <header>
@@ -61,16 +55,16 @@ Do you bleed purple and gold? Can you recite stat sheets from 20 years ago and r
 
         <div class="credits">
 
-          First credit by <span class="credit-name">Author Name(s)</span>
+        Quiz by <span class="credit-name">Nick Sullivan and Sean Quinton</span>
 
           &bull;
 
-          Second credit by <span class="credit-name">Author Name(s)</span>
+          Development by <span class="credit-name">Audrey Carlson</span>
 
         </div>
 
         <div class="sources">
-          Source: <span class="credit-name">Source Name</span>
+          Source: <span class="credit-name">GoHuskies.com, CollegePollArchive.com, MarketingNW.com </span>
         </div>
 
         <%= t.include("partials/_dontMiss.html", { data: json.Quiz_Elsewhere }) %>
