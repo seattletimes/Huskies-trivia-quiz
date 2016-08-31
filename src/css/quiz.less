@@ -46,6 +46,10 @@ button {
   padding: 0 30px;
   display: inline-block;
 
+  @media @mobile {
+    padding: 0;
+  }
+
   .inner {
 
     @media @break {
@@ -58,10 +62,13 @@ button {
   }
 
   .inset-image {
-    margin-left: 40px;
-    width: 600px;
-    float: left;
-    margin-right: 60px;
+    margin: auto;
+    width: 80%;
+
+    @media @mobile {
+      width: 100%;
+      margin-left: 0;
+    }
   }
 
   .question-inner {

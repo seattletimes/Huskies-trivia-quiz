@@ -9,13 +9,13 @@
       "path": "2016/quizzes/Huskies-trivia-quiz"
     }
   },
-  "title": "",
-  "description": "",
+  "title": "Quiz: How well do you know the Huskies?",
+  "description": "With another college football season upon us, we want you to put your Husky football knowledge to the test!",
   "url": "http://projects.seattletimes.com/2016/quizzes/Huskies-trivia-quiz/",
-  "slug": "",
+  "slug": "UW-tivia",
   "tags": ["quiz"],
-  "image": "assets/social.jpg",
+  "image": "assets/quiz/BESTdawgfather.jpg",
   "sheets": ["1jWjo8JRLdR_ueq82QnyMhOtDIb4l4EbIQ_0yVUMXk24"],
-  "production": false,
+  "production": true,
   "embedded": true
 }

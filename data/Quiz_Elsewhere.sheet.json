@@ -1,30 +1,30 @@
 [
   {
     "order": 1,
-    "category": "Personality Quiz",
-    "title": "Which Seahawk are you?",
-    "link": "http://projects.seattletimes.com/2015/which-seahawk-are-you/",
-    "image": "pquiztzr.jpg"
+    "title": "Predict the Huskies win-loss record with our UW season picker",
+    "category": "Make your pick",
+    "link": "http://projects.seattletimes.com/2016/sports/uw-season-predictor/",
+    "image": "teaser1.jpg"
   },
   {
     "order": 2,
-    "category": "Top-40",
-    "title": "Who are the best Seahawks in history?",
-    "link": "http://www.seattletimes.com/sports/seahawks/list-of-greatest-seattle-seahawks-topped-by-3-hall-of-famers-5-current-seahawks/",
-    "image": "TZRlargent27.jpg"
+    "title": "Predict the Cougars season with our WSU season picker",
+    "category": "Make your pick",
+    "link": "http://projects.seattletimes.com/2016/sports/wsu-season-predictor/",
+    "image": "teaser2.jpg"
   },
   {
     "order": 3,
-    "category": "Fan Map",
-    "title": "Tell us your Seahawks story",
-    "link": "http://projects.seattletimes.com/2015/hawks-fan-map/",
-    "image": "fanmaptzr.jpg"
+    "title": "Pick weekly college and NFL games for your chance to win great prizes!",
+    "category": "Guest Guesser",
+    "link": "http://seattletimes.upickem.net/upickem/registration/login.asp?contestid=259358",
+    "image": "teaser3.jpg"
   },
   {
     "order": 4,
-    "category": "Top Quotes",
-    "title": "The world according to Michael Bennett",
-    "link": "http://projects.seattletimes.com/2015/sports/Bennettisms/",
-    "image": "bennetttzr.jpg"
+    "title": "Read up on the Huskies and Cougars before the season begins",
+    "category": "2016 college football preview",
+    "link": "http://www.seattletimes.com/sports/uw-huskies/",
+    "image": "teaser4.jpg"
   }
 ]

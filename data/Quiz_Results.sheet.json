@@ -3,6 +3,7 @@
     "min": 0,
     "max": 3,
     "title": "Newbie",
+    "description": "It might be time for a Husky history lesson. Don't worry, there are lots of die-hards in Seattle who will be happy to reminisce about the glory days.",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
@@ -11,22 +12,25 @@
     "min": 4,
     "max": 7,
     "title": "Husky fan in training",
+    "description": "You clearly know enough to pass as a true fan, but you've got some learning to do. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
     "min": 8,
-    "max": 11,
+    "max": 12,
     "title": "Seasoned fan",
+    "description": "There's no question you're a member of the Husky faithful. You can't wait to pull that purple and gold windbreaker from 1985 out and head to Montlake this fall. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
     "min": 12,
-    "max": 14,
+    "max": 15,
     "title": "Dawgfather",
+    "description": "Maybe you can teach us a thing or two about the Huskies, oh wise Dawgfather. ",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
